@@ -1,4 +1,4 @@
-package synechron_adib_bank.interview2.theory;
+package synechron_adib_bank.interview2.coding;
 
 import java.util.Arrays;
 import java.util.List;
