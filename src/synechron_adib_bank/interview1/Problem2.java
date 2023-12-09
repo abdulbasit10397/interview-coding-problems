@@ -1,4 +1,4 @@
-package synechron_adib_bank;
+package synechron_adib_bank.interview1;
 
 import java.util.HashMap;
 import java.util.Map;
